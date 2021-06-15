@@ -1,0 +1,9 @@
+.footer-box{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30vw;
+    background: url(./img/wave_footer.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

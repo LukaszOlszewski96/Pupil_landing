@@ -1,5 +1,10 @@
 const MenuItems = [
     {
+        title: 'Opinion',
+        url: '#',
+        className: 'menu-links'
+    },
+    {
         title: 'Home',
         url: '#',
         className: 'menu-links'
@@ -14,11 +19,6 @@ const MenuItems = [
         url: '#',
         className: 'menu-links'
     },
-    {
-        title: 'Newsletter',
-        url: '#',
-        className: 'menu-links'
-    }
 ]
 
 export {MenuItems};
