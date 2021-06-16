@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Product.css"
-
+ 
 function Product() {
     return (
         <div className="Product-conteiner">
@@ -17,14 +17,17 @@ function Product() {
         </div>
         
         <div className="product-box">
+            <img/>
             <img className="img-app-mockup" src="./img/app_moc.png"/>
+            <img/>
         </div>
         
             
-
+ 
         </div>
     )
 }
-
+ 
 export default Product
+ 
 

@@ -4,12 +4,12 @@
     padding: 0;
     width: 100%;
     height: 45vw;
-    background-color:#0099ff;
+    background-color:#FFF;
 }
 .title-product{
-    font-size:3vw;
+    font-size:2vw;
     padding-top: 3.5vw;
-    color: #FFFF;
+    color: #0099ff;
     font-family: 'Fredoka One';
     text-align: center;
 }
@@ -20,7 +20,7 @@
     padding: 0;
     width: 100%;
     height: 50%;
-
+ 
 }
 .img-app-mockup{
     display: block;
@@ -40,7 +40,8 @@
 .text-product{
     font-size:1vw;
     font-family: 'Kanit';
-    color: #FFFF;
+    color: #0099ff;
     text-align:center;
     font-weight: bold;
 }
+

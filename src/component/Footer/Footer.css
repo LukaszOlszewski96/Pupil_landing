@@ -1,9 +1,64 @@
 .footer-box{
+    height: 10vw;
+    width: 100%;
+    background-color: #0099ff;
     margin: 0;
     padding: 0;
-    width: 100%;
-    height: 30vw;
-    background: url(./img/wave_footer.svg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
 }
+.footer-left-box{
+    height: 100%;
+    width: 50%;
+ 
+    display: block;
+}
+.footer-right-box{
+    height: 100%;
+    width: 50%;
+    float: left;
+    display: block;
+}
+.footer-left-box span{
+    position: relative;
+    top:6vw;
+    left:6vw;
+}
+ 
+.footer-logo{
+    font-family: 'Fredoka One';
+    color: #ffff;
+    font-size:1vw;
+    margin:0;
+    padding: 0;
+}
+.footer-text{
+    color: #ffff;
+    font-family: 'Kanit', sans-serif;
+    font-size:0.6vw;
+    margin:0;
+    padding: 0;
+}
+.follow-text{
+    font-family: 'Kanit', sans-serif;
+    color: #ffff;
+    font-size:1vw;
+    margin:0;
+    padding: 0;
+    position: relative;
+    
+}
+.social-box{
+    position: relative;
+    top: 3vw;
+}
+.social-icon-box{
+    font-family: 'Kanit', sans-serif;
+    font-size:1vw;
+    margin:0;
+    padding:0;
+}
+.social-icon-box a{
+    position: relative;
+    top: 1vw;
+}
+ 
+
