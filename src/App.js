@@ -15,7 +15,6 @@ function App() {
         <Product/>
         <Statistic/>
         <Contact/>
-        <Footer/>
       </Route>
     </Router>
   );

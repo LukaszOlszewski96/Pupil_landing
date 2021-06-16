@@ -11,7 +11,6 @@ function Footer() {
                         <p className="footer-logo">Pupil</p>
                         <p className="footer-text"> Copyright C 2021 All Rights Reserved</p>
                     </span>
-                    
                 </div>
                 <div className="footer-right-box">
                     <span className="social-box">

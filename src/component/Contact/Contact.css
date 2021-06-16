@@ -3,7 +3,7 @@
     padding: 0;
     width: 100%;
     height: 41vw;
-    display:flex;
+    display:block;
     background: url(img/wave_footer.svg) no-repeat bottom center;
 }
 .left-box-contact{
