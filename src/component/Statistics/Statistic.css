@@ -3,6 +3,7 @@
     padding: 0;
     width: 100%;
     height: 20vw;
+    margin-top: 10vw;
 }
 
 .counts{
@@ -11,19 +12,19 @@
     position: relative;
     top:4vw;
 }
+.counts il{
+    margin-right: 4vw;
+    margin-left: 4vw;
+    padding: 2.5vw 8vw 2.5vw 8vw;
+    background:#0099ff;
+	box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+    border-radius: 2vw;
+}
 .statistic-count{
     font-size: 2vw;
     font-weight: 600;
     font-family: 'Kanit';
-    color: #0099ff;
-    margin-right: 10vw;
-    margin-left: 10vw;
+    color: #fff;
     text-align: center;
 }
-.title-statistic{
-    font-size:2vw;
-    padding-top: 3.5vw;
-    color: #0099ff;
-    font-family: 'Fredoka One';
-    text-align: center;
-}
+

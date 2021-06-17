@@ -2,7 +2,7 @@
     display: flex;
     width: 100vw;
     height: 4vw;
-    background-color:transparent;
+    background-color:#0099ff8c;
     position: fixed;
     margin: 0;
     padding: 0;
@@ -30,7 +30,7 @@
     float: right;
     color: #fff;
     text-decoration: none;
-    margin-right: 2.5vw;
+    margin-right: 3.5vw;
     transition: 500ms;
 }
 .menu-links:hover{

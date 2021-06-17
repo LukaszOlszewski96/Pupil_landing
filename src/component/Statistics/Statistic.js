@@ -3,11 +3,12 @@ import {Counts} from './Counts';
 import "./Statistic.css";
 
 
-function StatisticCounter() {
+
+function Statistic() {
 
     return (
        <div className="statistic-box">
-           <h1 className="title-statistic">A growing ecosystem</h1>
+           <h1 className="title-product">Growing Community</h1>
            <ul className="counts">
                 {Counts.map((item, index)=>{
                     return(
@@ -22,4 +23,4 @@ function StatisticCounter() {
     )
 }
 
-export default StatisticCounter;
+export default Statistic;

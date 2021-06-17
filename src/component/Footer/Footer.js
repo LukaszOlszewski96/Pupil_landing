@@ -1,7 +1,9 @@
 import React from 'react'
 import './Footer.css'
- 
- 
+import {FaFacebook,FaTwitter, FaLinkedin, FaYoutube} from "react-icons/fa"
+
+
+
 function Footer() {
     return (
         <div className="footer-box">
@@ -16,10 +18,10 @@ function Footer() {
                     <span className="social-box">
                         <p className="follow-text">Follow us on</p>
                         <span className="social-icon-box">
-                            <a href="/">Facebook</a>
-                            <a href="/">Twitter</a>
-                            <a href="/">Linkedin</a>
-                            <a href="/">Youtube</a>
+                            <a href="/"><FaFacebook/></a>
+                            <a href="/"><FaTwitter/></a>
+                            <a href="/"><FaLinkedin/></a>
+                            <a href="/"><FaYoutube/></a>
                         </span>
                     </span>
                 </div>

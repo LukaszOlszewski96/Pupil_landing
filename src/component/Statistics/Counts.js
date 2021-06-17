@@ -3,22 +3,17 @@ export const Counts = [
     {
         title:"Users",
         number: "999",
-        duration: "2",
-        className: 'statistic-count'
+        className: 'statistic-count',
     }, 
     {
-        title:"Find reports",
+        title:"Find",
         number: "999",
-        duration: "2",
-        className: 'statistic-count'
-
+        className: 'statistic-count',
     },
     {
-        title:"Missing reports",
+        title:"Miss",
         number: "999",
-        duration: "2",
-        className: 'statistic-count'
-
+        className: 'statistic-count',
     }
 ]
 

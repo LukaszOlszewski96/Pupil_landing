@@ -19,7 +19,7 @@
 }
 .footer-left-box span{
     position: relative;
-    top:6vw;
+    top:5vw;
     left:6vw;
 }
  
@@ -59,6 +59,13 @@
 .social-icon-box a{
     position: relative;
     top: 1vw;
+    font-size: 2vw;
+    color: #ffff;
+    margin-right: 1vw;
 }
- 
+
+.social-icon-box a:hover{
+    color:rgb(174, 181, 194);;
+    }
+
 
