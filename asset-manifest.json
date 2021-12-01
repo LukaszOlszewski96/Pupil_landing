@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pupil_landing/static/css/main.ae88b60c.chunk.css",
+    "main.js": "/Pupil_landing/static/js/main.510ff52c.chunk.js",
+    "main.js.map": "/Pupil_landing/static/js/main.510ff52c.chunk.js.map",
+    "runtime-main.js": "/Pupil_landing/static/js/runtime-main.5c34f2e2.js",
+    "runtime-main.js.map": "/Pupil_landing/static/js/runtime-main.5c34f2e2.js.map",
+    "static/js/2.2435ab43.chunk.js": "/Pupil_landing/static/js/2.2435ab43.chunk.js",
+    "static/js/2.2435ab43.chunk.js.map": "/Pupil_landing/static/js/2.2435ab43.chunk.js.map",
+    "index.html": "/Pupil_landing/index.html",
+    "static/css/main.ae88b60c.chunk.css.map": "/Pupil_landing/static/css/main.ae88b60c.chunk.css.map",
+    "static/js/2.2435ab43.chunk.js.LICENSE.txt": "/Pupil_landing/static/js/2.2435ab43.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Pupil_landing/static/media/wave_background.13017169.svg",
+    "static/media/Contact.css": "/Pupil_landing/static/media/wave_footer.98d519fc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c34f2e2.js",
+    "static/js/2.2435ab43.chunk.js",
+    "static/css/main.ae88b60c.chunk.css",
+    "static/js/main.510ff52c.chunk.js"
+  ]
+}
