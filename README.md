@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/57043892/144246794-1c13496a-7df4-432d-a1cd-0a0ac3837efb.png)
 
-You can test the application by going to the link: 
+You can test the application by going to the link: https://lukaszolszewski96.github.io/Pupil_landing/
 
 
 ## Table of contents
